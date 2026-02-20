@@ -9,6 +9,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedAwedni/ahmedAwedni/main/GitHub Banner.png" alt="Ahmed Awedni Banner" width="100%">
+</p>
+
 ## 🎮 About Me
 
 I grew up playing games.  
