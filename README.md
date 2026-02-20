@@ -17,7 +17,7 @@ Now I build them.
 Passionate gamer and game developer with over 3 years of hands-on experience building games from concept to production. I’ve worked on multiple projects across different genres, including several fully solo-developed games. Currently a university student specializing in serious games development.
 Experienced with most of the industry tools such as Unity (main engine), Godot, and GDevelop, and comfortable working with creative art software like Blender, Aseprite, Krita, and Illustrator.
 
-I explore and enjoy games across almot every genres — from small indie experiments to large-scale AAA worlds.
+I explore and enjoy games across almost every genre — from small indie experiments to large-scale AAA worlds.
 
 *I play to understand, I understand to build*
 
