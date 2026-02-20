@@ -21,8 +21,8 @@ I explore games across genres — from small indie experiments to large-scale AA
 
 *I play to understand, I understand to build*
 
-Always refining my skills.  
-Always exploring new ideas.
+Always refining.  
+Always exploring.
 
 ---
 
@@ -31,13 +31,13 @@ Always exploring new ideas.
 ### 🎮 Engines
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![GDevelop](https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=GDevelop&logoColor=white)
+![GDevelop](https://img.shields.io/badge/GDevelop-4B4BFF?style=for-the-badge)
 
 ### 🎨 Creative Tools
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
 
 I work across both technical and artistic pipelines — designing, prototyping, and bringing meaningful ideas to life visually and interactively.
 
@@ -55,16 +55,12 @@ I work across both technical and artistic pipelines — designing, prototyping, 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedAwedni&theme=tokyonight&hide_border=true" />
 </p> 
 
 ---
 
 <p align="center">
-  <b>"Just as a baker must taste before perfecting, a game developer must play before creating."</b>
+  <i>"Just as a baker must taste before perfecting, a game developer must play before creating."</i>
 </p>
 
