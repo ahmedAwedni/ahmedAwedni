@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedAwedni/ahmedAwedni/main/GitHub Banner.png" alt="Ahmed Awedni Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ahmedAwedni/ahmedAwedni/main/GitHubBanner.png" alt="Ahmed Awedni Banner" width="100%">
 </p>
 
 ## 🎮 About Me
