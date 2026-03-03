@@ -52,7 +52,9 @@ I work across both technical and artistic pipelines — designing, prototyping, 
 - Gameplay systems & mechanics design  
 - Full-cycle solo development  
 - Brainstorming & rapid prototyping
-- Player experience & game feel  
+- Player experience & game feel
+
+Check some of demo games here : https://thehero10.itch.io   
 
 ---
 
