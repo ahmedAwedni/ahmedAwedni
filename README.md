@@ -58,11 +58,11 @@ Check some of demo games here : https://thehero10.itch.io
 
 ---
 
-## 📊 GitHub Activity
+## ⚡ Currently Up To
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedAwedni&theme=tokyonight&hide_border=true" />
-</p> 
+- 🌱 **Working on:** An online multiplayer turn-based RPG for mobile (my very first online game project!)
+- 🧠 **Learning:** Online multiplayer architecture and network handling in Unity
+- 🎮 **Playing:** *D&D Battlemarked*
 
 ---
 
