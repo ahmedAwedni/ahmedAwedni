@@ -62,7 +62,7 @@ Check some of demo games here : https://thehero10.itch.io
 
 - 🌱 **Working on:** An online multiplayer turn-based RPG for mobile (my very first online game project!)
 - 🧠 **Learning:** Online multiplayer architecture and network handling in Unity
-- 🎮 **Playing:** *D&D Battlemarked* / *Desperados: Most wanted Dead or alive*
+- 🎮 **Playing:** *D&D Battlemarked*
 
 ---
 
