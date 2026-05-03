@@ -43,7 +43,7 @@ Always exploring.
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
 
-I work across both technical and artistic pipelines — designing, prototyping, and bringing meaningful ideas to life visually and interactively.
+I work across both technical and artistic pipelines - designing, prototyping, and bringing meaningful ideas to life visually and interactively.
 
 ---
 
