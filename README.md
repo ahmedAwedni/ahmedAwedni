@@ -4,7 +4,7 @@
 <h3 align="center">Gamer • Game Developer • Game Artist</h3>
 
 <p align="center">
-  <i>"Building with the precision of a developer, the eye of a designer, and the heart of a gamer."</i>
+  <i>"Building with the precision of a developer, the eye of a designer, and the heart of a gamer"</i>
 </p>
 
 ---
